@@ -1,0 +1,4 @@
+# Simulation outputs & temporary binaries
+*.vvp
+*.vcd
+*.log
